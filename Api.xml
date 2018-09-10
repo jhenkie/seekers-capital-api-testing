@@ -1,0 +1,10 @@
+<suite name="Api">
+    <test name="ApiTest">
+        <classes>
+            <class name="UserTest"/>
+            <class name="MoviesTest"/>
+            <class name="ShowtimesTest"/>
+            <class name="BookingTest"/>
+        </classes>
+    </test>
+</suite>
